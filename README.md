@@ -1,4 +1,5 @@
 # Hello, I'am Filip!
+(Mainly) Python programmer, mathematician and data scientist.
 
 ### My main programming languages
 <p float="left">
