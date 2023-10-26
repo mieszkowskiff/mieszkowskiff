@@ -10,6 +10,7 @@
 </p>
 
 ### Other technologies
+<p float="left">
 <img src="./icons/arduino.png" width="40"/>
   <img src="./icons/cmake.png" width="40"/>
   <img src="./icons/sdl2.png" width="40"/>
