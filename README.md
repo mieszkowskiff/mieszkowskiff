@@ -1,6 +1,11 @@
-# About me
+## About me
 
-Pasionate of mathematics, computer science, data science, AI and physics. Bachelor in Matehmatics and Data Analysis finished with honours in 2024 (Warsaw University of Technology) ([see repository](https://github.com/mieszkowskiff/DAE-Solver)). Currently writing master thesis in Spectral Graph Analysis (also on Warsaw University of Techology).
+I am a passionate researcher and developer focused on the intersection of **Mathematics, Computer Science, and Artificial Intelligence**. My work revolves around finding elegant solutions to complex problems, from spectral graph theory to artificial life simulations.
+
+## Education
+
+* B. Sc. in Mathematics and Data Analysis (2024)
+* M. Sc. in Mathematics (In progress)
 
 ## My Tech Stack
 
@@ -36,9 +41,3 @@ Pasionate of mathematics, computer science, data science, AI and physics. Bachel
 ![SVN](https://img.shields.io/badge/svn-809CC9?style=for-the-badge&logo=subversion&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-%23064F8C.svg?style=for-the-badge&logo=cmake&logoColor=white)
-
-## 🛠️ Featured Projects
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=mieszkowskiff&repo=KITTSP&theme=dark)](https://github.com/mieszkowskiff/KITTSP)
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=mieszkowskiff&repo=In-Out-Deep-Learning&theme=dark)](https://github.com/mieszkowskiff/In-Out-Deep-Learning)

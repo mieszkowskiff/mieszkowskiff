@@ -17,7 +17,7 @@ jobs:
           
           # Konfiguracja wtyczki języków
           plugin_languages: yes
-          plugin_languages_ignored: html, css, scss # Możesz tu wpisać języki do ukrycia
+          plugin_languages_ignored: html, css, scss, jupyter-notebook
           plugin_languages_details: percentage    # Pokazuje procenty
           plugin_languages_sections: most-used    # Skupia się na najczęściej używanych
           plugin_languages_limit: 8
