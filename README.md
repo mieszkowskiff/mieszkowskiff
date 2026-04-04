@@ -6,7 +6,7 @@ Pasionate of mathematics, computer science, data science, AI and physics. Bachel
 
 ### Programming languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mieszkowskiff&layout=compact&theme=dark&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Metrics](github-metrics.svg)
 
 ### Technologies
 
