@@ -4,8 +4,17 @@ I am a passionate researcher and developer focused on the intersection of **Math
 
 ## Education
 
-* B. Sc. in Mathematics and Data Analysis (2024)
-* M. Sc. in Mathematics (In progress)
+* B. Sc. in Mathematics and Data Analysis at Warsaw University of Technology, Faculty of Mathematics and Information Sciences
+* ERASMUS+ Exchange at Johannes Kepler University Linz
+* M. Sc. in Mathematics (In progress) at Warsaw University of Technology, Faculty of Mathematics and Information Sciences
+
+## Currently working on
+
+* Learning triton
+* Artificial life simulation ([see repository](https://github.com/mieszkowskiff/Evolutionary))
+* Web Dev in C#
+* Cloud Computing on GCP
+* Spectral Graph Theory and Graph Neural Networks (master thesis)
 
 ## My Tech Stack
 
